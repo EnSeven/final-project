@@ -11,6 +11,7 @@ A multi-workspace, multi-room messaging application
 * DB for Persistence: AWS Dynamo with Dynamoose ORM
 * Deployment Option 1: Express App on EC2 (auto-deployed)
 * Deployment Option 2: Serverless app with Lambda ([Good Debate and Links Here](https://stackoverflow.com/questions/33926619/is-it-possible-to-use-socket-io-with-aws-lambda))
+* Deployment Option 3: Docker image containers + Amazon Fargate.
 
 ## Desktop App
 * React Application
